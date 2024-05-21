@@ -26,12 +26,12 @@ To get started with the Todo List app, follow these steps:
    ```bash
    npm start
 
-#Usage
+# Usage
 -Open your browser and go to http://your_local_host to see the app in action.
 -Use the input field to add new tasks.
 -Click on the checkbox to mark tasks as completed or incomplete.
 -Use the delete button to remove tasks.
-#Code Structure
-App.jsx: The main component containing the todo list logic.
-styles.css: The stylesheet for the app.
+# Code Structure
+ - App.jsx: The main component containing the todo list logic.
+ - styles.css: The stylesheet for the app.
  
