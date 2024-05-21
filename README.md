@@ -17,11 +17,15 @@ To get started with the Todo List app, follow these steps:
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
 2. Navigate to the project directory:
+3. ```bash
    cd todo-list-app
-3. Install the dependencies:
-  npm install
-4. Start the development server:
+4. Install the dependencies:
+   ```bash
+   npm install
+6. Start the development server:
+   ```bash
    npm start
+
 #Usage
 -Open your browser and go to http://your_local_host to see the app in action.
 -Use the input field to add new tasks.
